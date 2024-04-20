@@ -1,0 +1,16 @@
+﻿  FileName.cpp
+D:\Semestr IV\Metody_numeryczne\Lab6\Jacobi\Jacobi\FileName.cpp(59,16): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+D:\Semestr IV\Metody_numeryczne\Lab6\Jacobi\Jacobi\FileName.cpp(212,17): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+D:\Semestr IV\Metody_numeryczne\Lab6\Jacobi\Jacobi\FileName.cpp(213,17): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xutility(4959,24): warning C4244: "=": konwersja z "const _Ty" do "float", możliwa utrata danych
+          with
+          [
+              _Ty=double
+          ]
+D:\Semestr IV\Metody_numeryczne\Lab6\Jacobi\Jacobi\FileName.cpp(214,2): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::fill<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,double>(const _FwdIt,const _FwdIt,const double &)” funkcji szablon
+          with
+          [
+              _Ty=float,
+              _FwdIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>
+          ]
+  Jacobi.vcxproj -> D:\Semestr IV\Metody_numeryczne\Lab6\Jacobi\Debug\Jacobi.exe
